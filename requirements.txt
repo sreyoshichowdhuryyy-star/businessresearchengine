@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+thefuzz
+python-Levenshtein
+pdfplumber
+pdfminer.six
+pdf2image
+pytesseract
+pillow
+rapidfuzz
+# Note: pytesseract requires Tesseract binary installed on the system.
+# Windows: https://github.com/UB-Mannheim/tesseract/wiki
+# Ubuntu: sudo apt-get install tesseract-ocr
